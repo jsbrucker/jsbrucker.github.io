@@ -1,0 +1,4 @@
+Sitemap: https://jsbrucker.dev/sitemap.txt
+User-agent: *
+Crawl-delay: 10
+
