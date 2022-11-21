@@ -1,11 +1,11 @@
 https://jsbrucker.dev
 https://jsbrucker.dev/scala-result/
-https://jsbrucker.dev/scala-result/scala-2.13/api/result/
-https://jsbrucker.dev/scala-result/scala-2.13/api/result/Result.html
-https://jsbrucker.dev/scala-result/scala-2.13/api/result/Ok.html
-https://jsbrucker.dev/scala-result/scala-2.13/api/result/Err.html
-https://jsbrucker.dev/scala-result/scala-2.12/api/result/
-https://jsbrucker.dev/scala-result/scala-2.12/api/result/Result.html
-https://jsbrucker.dev/scala-result/scala-2.12/api/result/Ok.html
-https://jsbrucker.dev/scala-result/scala-2.12/api/result/Err.html
+https://jsbrucker.dev/scala-result/scala-2.13/api/scala_result/
+https://jsbrucker.dev/scala-result/scala-2.13/api/scala_result/Result.html
+https://jsbrucker.dev/scala-result/scala-2.13/api/scala_result/Ok.html
+https://jsbrucker.dev/scala-result/scala-2.13/api/scala_result/Err.html
+https://jsbrucker.dev/scala-result/scala-2.12/api/scala_result/
+https://jsbrucker.dev/scala-result/scala-2.12/api/scala_result/Result.html
+https://jsbrucker.dev/scala-result/scala-2.12/api/scala_result/Ok.html
+https://jsbrucker.dev/scala-result/scala-2.12/api/scala_result/Err.html
 
